@@ -15,7 +15,7 @@
 <tr>
 <td align="left">Day-1</td>
 <td align="left">Password Toggle Feature</td>
-<td align="left"><a href="password-toggle.sanjhchhatrasal.repl.co" rel="nofollow">password-toggle.sanjhchhatrasal.repl.co</a></td>
+<td align="left"><a href="https://password-toggle.sanjhchhatrasal.repl.co" rel="nofollow">https://password-toggle.sanjhchhatrasal.repl.co</a></td>
 </tr>
 </tbody>
 </table>
