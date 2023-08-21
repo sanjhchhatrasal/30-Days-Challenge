@@ -97,16 +97,15 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
- @media  (max-width: 520px) {
-     #container{
-        width: 100vw;
+@media (max-width: 390px) {
+    #row input {
+      padding: 15px 0;
+      padding-left: 10px;
+      padding-right: 0px;
+      flex: none;
     }
-    #todo-app{
-        width: 100%;
-        max-width: 540px;
+  
+    #row button {
+      padding: 16px 15px;
     }
-    button{
-        padding: 16px 5px;
-        font-size: 10px;
-    }
-}
+  }
