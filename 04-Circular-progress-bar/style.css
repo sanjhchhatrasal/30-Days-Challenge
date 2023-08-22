@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background: #EEEEEE;
+    height: 100vh;
+}
+h1{
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left: 450px;
+    color: #473C33;
+}
+#main{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#skill-html{
+    width: 160px;
+    height: 160px;
+    position: relative;
+}
+#skill-css{
+    width: 160px;
+    height: 160px;
+    position: relative;
+}
+#skill-js{
+    width: 160px;
+    height: 160px;
+    position: relative;
+}
+h2{
+    margin-top: 40px;
+    margin-left: 35px;
+    color: #473C33;
+}
+#outer{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+                 -6px -6px 10px -1px rgba(255,255,255,0.7);
+    padding: 20px;
+}
+#skill-css #outer{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+                 -6px -6px 10px -1px rgba(255,255,255,0.7);
+    padding: 20px;
+}
+#inner{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     box-shadow: inset -6px -6px 10px -1px rgba(255,255,255,0.7),
+    inset 6px 6px 10px -1px rgba(0,0,0,0.15);
+}
+#number{
+    font-weight: 600;
+    color: #555;
+}
+#skill-html circle{
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    animation: anim 2s linear forwards;
+}
+#skill-css circle{
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    animation: anim-css 2s linear forwards;
+}
+#skill-js circle{
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    animation: anim-js 2s linear forwards;
+}
+svg{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+@keyframes anim {
+    100%{
+        stroke-dashoffset: 94;
+    }
+}
+@keyframes anim-css {
+    100%{
+        stroke-dashoffset: 141;
+    }
+}
+@keyframes anim-js {
+    100%{
+        stroke-dashoffset: 193;
+    }
+}
+@media  (max-width: 520px) {
+    h1{
+        margin-left: 50px;
+        font-size: 40px;
+        margin: 30px;
+    }
+    #main {
+     margin-top: 75px;
+     width: 100vw;
+     display: flex;
+     flex-direction: column;
+     margin-left: 15px;
+    }
+    #skill-html{
+        margin-bottom: 30px;
+    }
+    #skill-css{
+        margin-bottom: 30px;
+    }
+    h2{
+        margin-top: 25px;
+        margin-left: 30px;
+        margin-bottom: 25px;
+    }
+   
+}
