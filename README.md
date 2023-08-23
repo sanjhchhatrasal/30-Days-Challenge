@@ -35,7 +35,7 @@
  <tr>
 <td align="left">Day-5</td>
 <td align="left">Quiz App</td>
-<td align="left"><a href="https://circular-progress-bar.sanjhchhatrasal.repl.co">https://circular-progress-bar.sanjhchhatrasal.repl.co</a></td>
+<td align="left"><a href="https://quiz-app.sanjhchhatrasal.repl.co">https://quiz-app.sanjhchhatrasal.repl.co</a></td>
 </tr>
 </tbody>
 </table>
