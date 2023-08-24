@@ -37,5 +37,10 @@
 <td align="left">Quiz App</td>
 <td align="left"><a href="https://quiz-app.sanjhchhatrasal.repl.co">https://quiz-app.sanjhchhatrasal.repl.co</a></td>
 </tr>
+<tr>
+<td align="left">Day-6</td>
+<td align="left">Weather App</td>
+<td align="left"><a href="https://weather-app.sanjhchhatrasal.repl.co">https://weather-app.sanjhchhatrasal.repl.co</a></td>
+</tr>
 </tbody>
 </table>
