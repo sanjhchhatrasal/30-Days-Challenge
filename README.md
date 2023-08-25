@@ -42,5 +42,10 @@
 <td align="left">Weather App</td>
 <td align="left"><a href="https://weather-app.sanjhchhatrasal.repl.co">https://weather-app.sanjhchhatrasal.repl.co</a></td>
 </tr>
+ <tr>
+<td align="left">Day-7</td>
+<td align="left">Stopwatch</td>
+<td align="left"><a href="http://stopwatch.sanjhchhatrasal.repl.co/">http://stopwatch.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
