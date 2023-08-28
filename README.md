@@ -57,5 +57,10 @@
 <td align="left">Text To Speech Converter</td>
 <td align="left"><a href="https://text-to-voice-converter.sanjhchhatrasal.repl.co/">https://text-to-voice-converter.sanjhchhatrasal.repl.co//</a></td>
 </tr>
+ <tr>
+<td align="left">Day-10</td>
+<td align="left">Coming Soon Page</td>
+<td align="left"><a href="https://coming-soon-page.sanjhchhatrasal.repl.co//">https://coming-soon-page.sanjhchhatrasal.repl.co///</a></td>
+</tr>
 </tbody>
 </table>
