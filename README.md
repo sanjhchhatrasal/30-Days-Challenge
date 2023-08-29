@@ -62,5 +62,10 @@
 <td align="left">Coming Soon Page</td>
 <td align="left"><a href="https://coming-soon-page.sanjhchhatrasal.repl.co//">https://coming-soon-page.sanjhchhatrasal.repl.co///</a></td>
 </tr>
+ <tr>
+<td align="left">Day-11</td>
+<td align="left">Quote Generator</td>
+<td align="left"><a href="https://quote-generator.sanjhchhatrasal.repl.co/">https://quote-generator.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
