@@ -67,5 +67,10 @@
 <td align="left">Quote Generator</td>
 <td align="left"><a href="https://quote-generator.sanjhchhatrasal.repl.co/">https://quote-generator.sanjhchhatrasal.repl.co/</a></td>
 </tr>
+ <tr>
+<td align="left">Day-12</td>
+<td align="left">Age Calculator</td>
+<td align="left"><a href="https://age-calculator.sanjhchhatrasal.repl.co/">https://age-calculator.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
