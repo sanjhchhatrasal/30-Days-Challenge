@@ -72,5 +72,10 @@
 <td align="left">Age Calculator</td>
 <td align="left"><a href="https://age-calculator.sanjhchhatrasal.repl.co/">https://age-calculator.sanjhchhatrasal.repl.co/</a></td>
 </tr>
+ <tr>
+<td align="left">Day-13</td>
+<td align="left">Popup Details</td>
+<td align="left"><a href="https://popup-details.sanjhchhatrasal.repl.co">https://popup-details.sanjhchhatrasal.repl.co</a></td>
+</tr>
 </tbody>
 </table>
