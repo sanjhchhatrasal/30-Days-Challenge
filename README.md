@@ -82,5 +82,10 @@
 <td align="left">Image Transition</td>
 <td align="left"><a href="https://image-transition.sanjhchhatrasal.repl.co">https://image-transition.sanjhchhatrasal.repl.co</a></td>
 </tr>
+ <tr>
+<td align="left">Day-15</td>
+<td align="left">Calculator</td>
+<td align="left"><a href="https://calculator.sanjhchhatrasal.repl.co">https://calculator.sanjhchhatrasal.repl.co</a></td>
+</tr>
 </tbody>
 </table>
