@@ -87,5 +87,10 @@
 <td align="left">Calculator</td>
 <td align="left"><a href="https://calculator.sanjhchhatrasal.repl.co">https://calculator.sanjhchhatrasal.repl.co</a></td>
 </tr>
+ <tr>
+<td align="left">Day-16</td>
+<td align="left">Digital Clock</td>
+<td align="left"><a href="https://digital-clock.sanjhchhatrasal.repl.co/">https://digital-clock.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
