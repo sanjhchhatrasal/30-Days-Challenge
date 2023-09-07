@@ -107,7 +107,7 @@
 <td align="left">Notes App</td>
 <td align="left"><a href="https://notes-app.sanjhchhatrasal.repl.co/">https://notes-app.sanjhchhatrasal.repl.co/</a></td>
 </tr>
- <tr>
+<tr>
 <td align="left">Day-20</td>
 <td align="left">Image Search Engine</td>
 <td align="left"><a href="https://image-search-engine.sanjhchhatrasal.repl.co/">https://image-search-engine.sanjhchhatrasal.repl.co/</a></td>
