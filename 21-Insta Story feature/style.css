@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: rgb(34, 163, 186);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#main{
+    background: #fff;
+    height: 520px;
+    width: 340px;
+    border-radius: 20px;
+    border: 2px solid #000;
+    position: relative;
+    overflow: hidden;
+}
+#top{
+    height: 50px;
+    width: 100%;
+    display: flex;
+}
+#top #left{
+     width: 50%;
+}
+#top #left img{
+    width: 120px;
+    padding: 10px;
+}
+#top #right{
+    width: 50%;
+    display: flex;
+    padding-top: 10px;
+}
+#right .heart{
+    padding-left: 90px;
+    font-size: 25px;
+}
+#right .msg{
+    padding-left: 17px;
+    font-size: 25px;
+}
+
+#full-screen{
+    height: 100%;
+    width: 100%;
+    display: none;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+}
+#stories{
+    height: 120px;
+    width: 100%;
+    border-bottom:  1px solid #dadada;
+    padding: 10px;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+#stories::-webkit-scrollbar{
+    display: none;
+}
+#story{
+    height: 90px;
+    width: 90px;
+    border: 2px solid red;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+#story img{
+    padding: 4px;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+}
+@media(max-width : 520px){
+    #main{
+      height: 100vh;
+      width: 100vw;
+      padding-top: 30px;
+      border-radius: 0px;
+     border: 0px solid #000;
+  }
+    #story img{
+      object-fit: cover;
+  }
+  }
