@@ -112,5 +112,10 @@
 <td align="left">Image Search Engine</td>
 <td align="left"><a href="https://image-search-engine.sanjhchhatrasal.repl.co/">https://image-search-engine.sanjhchhatrasal.repl.co/</a></td>
 </tr>
+<tr>
+<td align="left">Day-21</td>
+<td align="left">Insta Story Feature</td>
+<td align="left"><a href="https://insta-story.sanjhchhatrasal.repl.co/">https://insta-story.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
