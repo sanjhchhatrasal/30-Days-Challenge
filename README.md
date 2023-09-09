@@ -117,5 +117,10 @@
 <td align="left">Insta Story Feature</td>
 <td align="left"><a href="https://insta-story.sanjhchhatrasal.repl.co/">https://insta-story.sanjhchhatrasal.repl.co/</a></td>
 </tr>
+ <tr>
+<td align="left">Day-22</td>
+<td align="left">Friend Request</td>
+<td align="left"><a href="https://friend-request.sanjhchhatrasal.repl.co/">https://friend-request.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
