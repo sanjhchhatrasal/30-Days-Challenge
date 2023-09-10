@@ -119,8 +119,13 @@
 </tr>
  <tr>
 <td align="left">Day-22</td>
-<td align="left">Friend Request</td>
+<td align="left">Friend Request Feature</td>
 <td align="left"><a href="https://friend-request.sanjhchhatrasal.repl.co/">https://friend-request.sanjhchhatrasal.repl.co/</a></td>
+</tr>
+ <tr>
+<td align="left">Day-23</td>
+<td align="left">Insta Like Feature</td>
+<td align="left"><a href="https://insta-like-feature.sanjhchhatrasal.repl.co/">https://insta-like-feature.sanjhchhatrasal.repl.co/</a></td>
 </tr>
 </tbody>
 </table>
