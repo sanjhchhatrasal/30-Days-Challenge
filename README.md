@@ -127,5 +127,10 @@
 <td align="left">Insta Like Feature</td>
 <td align="left"><a href="https://insta-like-feature.sanjhchhatrasal.repl.co/">https://insta-like-feature.sanjhchhatrasal.repl.co/</a></td>
 </tr>
+ <tr>
+<td align="left">Day-24</td>
+<td align="left">Custom Cursor</td>
+<td align="left"><a href="https://custom-cursor.sanjhchhatrasal.repl.co/">https://custom-cursor.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
