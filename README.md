@@ -132,5 +132,10 @@
 <td align="left">Custom Cursor</td>
 <td align="left"><a href="https://custom-cursor.sanjhchhatrasal.repl.co/">https://custom-cursor.sanjhchhatrasal.repl.co/</a></td>
 </tr>
+ <tr>
+<td align="left">Day-25</td>
+<td align="left">Multiple Image Hovering Effect</td>
+<td align="left"><a href="https://image-hovering-effect.sanjhchhatrasal.repl.co/">https://image-hovering-effect.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
