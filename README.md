@@ -137,5 +137,10 @@
 <td align="left">Multiple Image Hovering Effect</td>
 <td align="left"><a href="https://image-hovering-effect.sanjhchhatrasal.repl.co/">https://image-hovering-effect.sanjhchhatrasal.repl.co/</a></td>
 </tr>
+ <tr>
+<td align="left">Day-26</td>
+<td align="left">Image Gallery</td>
+<td align="left"><a href="https://image-gallery.sanjhchhatrasal.repl.co/">https://image-gallery.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
