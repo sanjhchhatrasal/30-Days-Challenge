@@ -142,5 +142,10 @@
 <td align="left">Image Gallery</td>
 <td align="left"><a href="https://image-gallery.sanjhchhatrasal.repl.co/">https://image-gallery.sanjhchhatrasal.repl.co/</a></td>
 </tr>
+ <tr>
+<td align="left">Day-27</td>
+<td align="left">QR Code Generator</td>
+<td align="left"><a href="https://qr-code-generator.sanjhchhatrasal.repl.co/">https://qr-code-generator.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
