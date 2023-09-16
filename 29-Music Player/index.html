@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/065e2fcf94.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="main">
+        <div id="container">
+            <nav>
+                <div id="circle">
+                    <i class="fa-solid fa-angle-left"></i>
+                </div>
+                <div id="circle">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+            </nav>
+            <img id="song-img" src="https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2luZ2VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60">
+            <h1>Senorita</h1>
+            <p>Shawn Mendes, Camila Cabello</p>
+
+            <audio  id="song">
+                <source id="senorita" src="senorita.mp3" type="audio/mpeg">
+            </audio>
+            <input type="range" value="0" id="progress">
+            <div id="controls">
+                <div><i class="fa-solid fa-backward"></i></div>
+                <div><i onclick="playPause()" id="controlIcon" class="fa-solid fa-play"></i></div>
+                <div><i  class="fa-solid fa-forward"></i></div>
+            </div>
+        </div>
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
