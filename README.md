@@ -157,5 +157,10 @@
 <td align="left">Music Player</td>
 <td align="left"><a href="https://music-player.sanjhchhatrasal.repl.co/">https://music-player.sanjhchhatrasal.repl.co/</a></td>
 </tr>
+ <tr>
+<td align="left">Day-30</td>
+<td align="left">Bubble Game</td>
+<td align="left"><a href="https://bubble-game-1.sanjhchhatrasal.repl.co/">https://bubble-game-1.sanjhchhatrasal.repl.co/</a></td>
+</tr>
 </tbody>
 </table>
